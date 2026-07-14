@@ -51,27 +51,6 @@ class Speaker {
 
     }
 
-    public static void main(String[] args) {
-
-        System.out.println(isOn);
-
-        onOrOff();
-        System.out.println(isOn);
-
-        increaseVolume();
-        increaseVolume();
-        increaseVolume();
-        increaseVolume();
-
-        decreaseVolume();
-        decreaseVolume();
-        decreaseVolume();
-        decreaseVolume();
-        decreaseVolume();
-
-        onOrOff();
-        System.out.println(isOn);
-
-    }
+    
 
 }

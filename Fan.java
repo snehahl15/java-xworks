@@ -51,30 +51,6 @@ class Fan {
 
     }
 
-    public static void main(String[] args) {
-
-        System.out.println(isOn);
-
-        onOrOff();
-        System.out.println(isOn);
-
-        increaseSpeed();
-        increaseSpeed();
-        increaseSpeed();
-        increaseSpeed();
-        increaseSpeed();
-        increaseSpeed();
-
-        decreaseSpeed();
-        decreaseSpeed();
-        decreaseSpeed();
-        decreaseSpeed();
-        decreaseSpeed();
-        decreaseSpeed();
-
-        onOrOff();
-        System.out.println(isOn);
-
-    }
+   
 
 }

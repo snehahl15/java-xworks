@@ -51,30 +51,6 @@ class LaundryMachine {
 
     }
 
-    public static void main(String[] args) {
 
-        System.out.println(isOn);
-
-        onOrOff();
-        System.out.println(isOn);
-
-        increaseWaterLevel();
-        increaseWaterLevel();
-        increaseWaterLevel();
-        increaseWaterLevel();
-        increaseWaterLevel();
-        increaseWaterLevel();
-
-        decreaseWaterLevel();
-        decreaseWaterLevel();
-        decreaseWaterLevel();
-        decreaseWaterLevel();
-        decreaseWaterLevel();
-        decreaseWaterLevel();
-
-        onOrOff();
-        System.out.println(isOn);
-
-    }
 
 }
